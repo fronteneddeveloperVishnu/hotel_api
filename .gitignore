@@ -1,0 +1,3 @@
+#IGNORE ndoe_modules directory
+ndoe_modules/
+.env
